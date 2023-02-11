@@ -1,4 +1,4 @@
-# Hello World! 👋🏻
+# Hello World! 👩🏻‍💻
 
 ## Eu me chamo Isabela, tenho 20 anos e sou estudante na área da tecnologia!
 
