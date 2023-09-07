@@ -5,13 +5,13 @@
 ### • GitHub Stats 🚀 •
 <div>
   <a href="https://github.com/isabelamorgado">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=isabelamorgado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=isabelamorgado&show_icons=true&bg_color=30,fc466b,3f5efb&title_color=fff&text_color=fff&rank_icon=github&include_all_commits=true&count_private=true"/>
 
 </div>
 
 ### • Languages 🖥️ •
 <div>
-  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelamorgado&layout=compact&theme=dracula"/>
+  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelamorgado&layout=compact&bg_color=30,fc466b,3f5efb&title_color=fff&text_color=fff"/>
 </div>
   
 ##
