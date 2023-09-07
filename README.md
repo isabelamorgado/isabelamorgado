@@ -11,7 +11,7 @@
 
 ### • Languages 🖥️ •
 <div>
-  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelamorgado&hide_progress=true&langs_count=16&theme=dracula"/>
+  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelamorgado&layout=compact&theme=dracula"/>
 </div>
   
 ##
