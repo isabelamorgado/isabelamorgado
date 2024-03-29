@@ -1,6 +1,6 @@
 # Hello World! 👩🏻‍💻
 
-## Eu me chamo Isabela, tenho 21 anos e sou estudante na área da tecnologia!
+## Eu me chamo Isabela, tenho 22 anos e sou estudante na área da tecnologia!
 
 ### • GitHub Stats 🚀 •
 <div>
