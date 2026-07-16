@@ -14,7 +14,7 @@
 ### Atualmente focada em
 
 💻 Evoluir tecnicamente e profissionalmente  
-📊 Desenvolver conhecimentos em Ciência de Dados  
+📊 Desenvolver conhecimentos em Dados  
 🧠 Desenvolver lógica, consistência e boas práticas  
 ✨ Construir uma carreira sólida em dados, com propósito e impacto 
 
